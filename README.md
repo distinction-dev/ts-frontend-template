@@ -8,6 +8,12 @@
 npm install @distinction-dev/package-name
 ```
 
+or
+
+```bash
+yarn add @distinction-dev/package-name
+```
+
 ## Usage
 
 ```ts
