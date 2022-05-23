@@ -1,7 +1,7 @@
 {
   "name": "@distinction-dev/package-name",
   "version": "0.0.0-development",
-  "description": "A collection of utils to use along with Firebase",
+  "description": "A template for packages created by us",
   "main": "./lib/src/index.js",
   "files": [
     "lib/**/*"
